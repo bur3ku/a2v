@@ -1,0 +1,12 @@
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/jackyzha0/hugo-obsidian v0.0.0-20210827153649-fcef39bb734d h1:hQyfWwns3yJH6R6fO2PoMDLzqFhp89M6c+qTJ7n9ip4=
+github.com/jackyzha0/hugo-obsidian v0.0.0-20210827153649-fcef39bb734d/go.mod h1:4mseMkjpUzgPl/UmBiBe4ztb64Miwdck48ukjGeO+Rk=
+github.com/nikitavoloboev/markdown-parser v0.0.0-20200626055436-f545e8dd85d3 h1:68qdIIXf2kCV7+LlIM78OtcdKh3TXO00nOqraFor+VI=
+github.com/nikitavoloboev/markdown-parser v0.0.0-20200626055436-f545e8dd85d3/go.mod h1:cL/O6Dew5Lsfksx+WljXgEf4gZsRjBXSjI7SuibGcEY=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b h1:h8qDotaEPuJATrMmW04NCwg7v22aHH28wwpauUhK9Oo=
+gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

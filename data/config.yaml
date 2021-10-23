@@ -1,12 +1,9 @@
-name: Jacky Zhao
+name: Blake Allen
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  My knowledge garden of math, computer science, graphics programming and voxel game engine dev
 page_title:
   Quartz Example Page
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/bur3ku

@@ -1,0 +1,1 @@
+a subset of the [Cartesian product](notes/Cartesian%20product.md)

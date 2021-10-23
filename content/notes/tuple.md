@@ -1,0 +1,1 @@
+finite [sequence](notes/sequence.md) of elements

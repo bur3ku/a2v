@@ -1,6 +1,5 @@
-# Quartz
-Simple second brain and digital garden.
+# 🌱 ~~Zero to Hero~~ Awful to Voxel
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This website is still being set up!
 
-🔗 Get Started: https://quartz.jzhao.xyz/
+My knowledge garden of math, computer science, graphics programming and voxel game engine dev
